@@ -33,6 +33,7 @@
 - **md renderer**: [glow](https://github.com/charmbracelet/glow)
 - **file manager**: [yazi](https://yazi-rs.github.io/)
 - **system fetch**: [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+- **github helper**: [github cli](https://cli.github.com/)
 
 ### misc
 
