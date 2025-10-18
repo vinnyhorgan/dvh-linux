@@ -99,7 +99,7 @@ that's it! confirm and wait for the installation to finish.
 
 # extra: desktop configuration
 
-i love the above setup, however, for my nvidia-based main desktop pc with multiple monitors i prefer changing a couple things. the rest says exactly the same.
+i love the above setup, however, for my nvidia-based main desktop pc with multiple monitors i prefer changing a couple things. the rest stays exactly the same.
 
 ## components:
 
@@ -115,6 +115,7 @@ i love the above setup, however, for my nvidia-based main desktop pc with multip
 ## 1) installation
 
 - in **profile** choose `type > desktop > kde plasma`
+- in **network configuration** choose `use networkmanager`
 
 ## 2) first boot
 
