@@ -44,7 +44,8 @@
 
 ### style
 
-- **color scheme**: [catppuccin mocha](https://catppuccin.com/) with **green** accent (on everything)
+- **color theme**: [catppuccin mocha](https://catppuccin.com/) with **green** accent (on everything)
+- **icon theme**: [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
 - **monospace font**: [iosevka](https://typeof.net/Iosevka/) (nerd patched)
 - **ui sans serif font**: [inter](https://rsms.me/inter/)
 - **ui serif font**: [ibm plex serif](https://www.ibm.com/plex/)
@@ -119,4 +120,15 @@ i love the above setup, however, for my nvidia-based main desktop pc with multip
 
 ## 2) first boot
 
-- TODO
+the only difference here is obviously setting up the desktop environment, which is much easier than the sway setup.
+
+- go through the **system settings** and setup everything as needed
+- configure panels and widgets as needed
+- install the [catppuccin kde theme](https://github.com/catppuccin/kde) as described on the page, this also applies cursors
+- install the [catppuccin sddm theme](https://github.com/catppuccin/sddm) as described on the page
+
+## 3) config
+
+### firefox
+
+add the **plasma integration** extension for better integration.
