@@ -22,6 +22,8 @@
 - **notification daemon**: [mako](https://github.com/emersion/mako)
 - **status generator**: [i3status-rs](https://github.com/greshake/i3status-rust)
 - **workspace namer**: [sworkstyle](https://github.com/Lyr-7D1h/swayest_workstyle)
+- **gtk editor**: [nwg-look](https://github.com/nwg-piotr/nwg-look)
+- **gamma**: [gammastep](https://gitlab.com/chinstrap/gammastep)
 
 ### cli
 
@@ -39,8 +41,6 @@
 
 - **aur helper**: [paru](https://github.com/Morganamilo/paru)
 - **power management**: [tlp](https://linrunner.de/tlp/index.html) (if on laptop)
-- **gtk editor**: [nwg-look](https://github.com/nwg-piotr/nwg-look)
-- **gamma**: [gammastep](https://gitlab.com/chinstrap/gammastep)
 
 ### style
 
@@ -81,7 +81,7 @@ steps list (wiki for detailed instructions):
 - boot into the live image
 - connect to the internet (either cable or [iwctl](https://wiki.archlinux.org/title/Iwd#iwctl))
 
-if `ping archlinux.org` successfully receives packets, we can safely start the installation using `archinstall`.
+if `ping ping.archlinux.org` successfully receives packets, we can safely start the installation using `archinstall`.
 
 ## 1) installation
 
@@ -92,6 +92,29 @@ go through the installer filling personal details as requested. for the other op
 - in **applications > audio** choose `pipewire`
 
 that's it! confirm and wait for the installation to finish.
+
+## 2) first boot
+
+- TODO
+
+# extra: desktop configuration
+
+i love the above setup, however, for my nvidia-based main desktop pc with multiple monitors i prefer changing a couple things. the rest says exactly the same.
+
+## components:
+
+### core
+
+- **window manager**: [kde plasma](https://kde.org/plasma-desktop/)
+- **display manager**: [sddm](https://github.com/sddm/sddm)
+
+### wm addons
+
+**none**: plasma is a fully featured desktop environment
+
+## 1) installation
+
+- in **profile** choose `type > desktop > kde plasma`
 
 ## 2) first boot
 
