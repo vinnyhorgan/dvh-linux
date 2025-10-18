@@ -10,7 +10,7 @@
 
 - **distribution**: [arch linux](https://archlinux.org/)
 - **window manager**: [sway](https://swaywm.org/)
-- **terminal emulator**: [wezterm](https://wezterm.org/)
+- **terminal emulator**: [ghostty](https://ghostty.org/)
 - **display manager**: [ly](https://github.com/fairyglade/ly)
 - **shell**: [fish](https://fishshell.com/)
 - **web browser**: [firefox](https://www.firefox.com/)
@@ -44,11 +44,10 @@
 
 ### style
 
-- **color theme**: [catppuccin mocha](https://catppuccin.com/) with **green** accent (on everything)
+- **color theme**: [catppuccin mocha](https://catppuccin.com/) (on everything)
 - **icon theme**: [papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-- **monospace font**: [iosevka](https://typeof.net/Iosevka/) (nerd patched)
-- **ui sans serif font**: [inter](https://rsms.me/inter/)
-- **ui serif font**: [ibm plex serif](https://www.ibm.com/plex/)
+- **ui font**: [inter](https://rsms.me/inter/)
+- **monospace font**: [jetbrains mono](https://www.jetbrains.com/lp/mono/) (nerd patched)
 
 ### included with archinstall
 
