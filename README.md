@@ -107,7 +107,6 @@ i love the above setup, however, for my nvidia-based main desktop pc with multip
 ### core
 
 - **window manager**: [kde plasma](https://kde.org/plasma-desktop/)
-- **display manager**: [sddm](https://github.com/sddm/sddm)
 
 ### wm addons
 
@@ -115,7 +114,7 @@ i love the above setup, however, for my nvidia-based main desktop pc with multip
 
 ## 1) installation
 
-- in **profile** choose `type > desktop > kde plasma`
+- in **profile** choose `type > desktop > kde plasma`, then for the greeter choose `ly`
 - in **network configuration** choose `use networkmanager`
 
 ## 2) first boot
@@ -125,7 +124,6 @@ the only difference here is obviously setting up the desktop environment, which 
 - go through the **system settings** and setup everything as needed
 - configure panels and widgets as needed
 - install the [catppuccin kde theme](https://github.com/catppuccin/kde) as described on the page, this also applies cursors
-- install the [catppuccin sddm theme](https://github.com/catppuccin/sddm) as described on the page
 
 ## 3) config
 
